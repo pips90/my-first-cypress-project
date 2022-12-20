@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pips90/my-first-cypress-project/issues"
   },
-  "homepage": "https://github.com/pips90/my-first-cypress-project#readme"
+  "homepage": "https://github.com/pips90/my-first-cypress-project#readme",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  }
 }
